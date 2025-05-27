@@ -1,4 +1,4 @@
-# Travel Planner - Agent-to-Agent Communication System
+# Travel Planner-Agent-to-Agent Communication System
 
 An AI-powered travel planning system that uses Agent-to-Agent (A2A) communication protocol to orchestrate comprehensive travel itineraries. The system employs specialized agents that collaborate to find flights, hotels, and activities for your travel needs.
 
